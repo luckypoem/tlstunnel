@@ -1,6 +1,7 @@
 # tlstunnel
 
 [工作原理](https://zhuanlan.zhihu.com/p/72761480)
+# 使用 TLS 加密 HTTP 代理
 HTTP 代理在企业中有着应泛的应用。但 HTTP 代理信令是明文传输的，非常不利于商业秘密和个人隐私的保护。本文介绍一种使用 TLS 技术对 HTTP 实行加密保护的方法。
 
 对于明文 HTTP 请求，代理通信的流程如下：
